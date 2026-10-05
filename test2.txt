@@ -1,0 +1,9 @@
+ghgh 
+
+
+lmlm
+
+
+
+Standard automated flight and robotic controllers crash when unexpected external winds alter machine parameters; sliding mode control clamps the system’s behavior onto an unshakeable mathematical guardrail that ignores external disturbances. Developed in the Soviet Union and translated in 1977 by Vadim Utkin, this robust control architecture is the mathematical backbone steering rocket thrusters, robot arms, and industrial electric motors worldwide.
+

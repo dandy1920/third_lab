@@ -1,0 +1,1 @@
+Silicon power electronics waste massive electrical energy as heat in electric car inverters and solar converters; Jayant Baliga proved mathematically that wide-bandgap crystals like silicon carbide handle thousands of volts with nearly zero resistance.
